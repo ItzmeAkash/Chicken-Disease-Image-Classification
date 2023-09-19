@@ -91,7 +91,11 @@ open up you local host and port
 
 	
 ## 3. Create ECR repo to store/save docker image
+<<<<<<< HEAD
     
+=======
+    - Save the URI:
+>>>>>>> 63f9cf0695fb88d8396bb5fcfc1b37a882aa931e
 
 	
 ## 4. Create EC2 machine (Ubuntu) 
